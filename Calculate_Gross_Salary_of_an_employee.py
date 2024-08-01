@@ -1,0 +1,7 @@
+BS = float(input())
+HRA = float(input())
+DA = float(input())
+PF = float((BS/100)*12)
+GS = float(BS+HRA+DA+PF)
+print("%.2f"%(PF))
+print("%.2f"%(GS))
