@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+h = int(input())
+t = float(0.5*(a+b)*h)
+print("%.4f"%(t))
